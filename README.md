@@ -9,7 +9,20 @@ Hygen 템플릿을 이용하여 폴더를 만들 때는 디렉토리가 없어�
 
 ### 단순 템플릿 생성하기
 
-### 프롬프트 상호작용을 통해 템플릿 생성하기
+```shell
+$ hygen component general
+```
+
+![general component](/readme/hygen-sample-1.gif)
+
+### 옵션 선택을 통해 카테고리를 갖는 템플릿 생성하기
+
+```shell
+$ hygen component category
+```
+
+![general component](/readme/hygen-sample-2.gif)
+
 
 ### 기타
 
